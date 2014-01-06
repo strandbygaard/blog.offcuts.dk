@@ -38,6 +38,7 @@
 		var pluginUrl =  '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
 		_gaq.push(['_require', 'inpage_linkid', pluginUrl]);
   		_gaq.push(['_setAccount', '{{ site.JB.analytics.google.tracking_id }}']);
+    	_gaq.push(['_setDomainName', 'blog.offcuts.dk']);
   		_gaq.push(['_trackPageview']);
 
   		(function() {

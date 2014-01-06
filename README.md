@@ -1,4 +1,4 @@
-diy.strandbygaard.net
+blog.offcuts.dk
 =====================
 
 DIY blog
