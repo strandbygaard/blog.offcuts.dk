@@ -3,7 +3,7 @@ author: Martin Strandbygaard
 date: 2013-09-17 20:00:00+02:00
 layout: about
 title: About
-tagline: Strandbygaard Consulting
+tagline: Offcuts Fabrications
 header: About
 group: navigation
 description: ""
@@ -11,7 +11,7 @@ description: ""
 
 {% include JB/setup %}
 
-This site is provided by Strandbygaard Consulting.
+This site is provided by Offcuts Fabrications.
 
 We specialize in opensource designs, prototyping- and product development, and the software required to power all these things. And, we help companies understand how new trends in micro manufacturing and consumerization are affecting traditional product developmnt and production. 
 
