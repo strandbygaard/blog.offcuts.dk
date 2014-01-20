@@ -17,7 +17,7 @@ tags: [Mill, Sieg SX3, DRO]
 
 This is the second part of my DRO installation my Sieg SX3. As stated before, there are many posts about DRO installation on a bench-top mill. This is yet another one.
 
-I decided to start with the Y-axis since that seemed easier than the X-axis, and while the X-axis wasn't difficult it did required some additional operations, namely it required a chip shield which I had to make, since none was supplied with the DRO kit.
+I decided to start with the Y-axis since that seemed easier than the X-axis, and while the X-axis wasn't difficult it did require some additional operations, namely it required a chip shield which I had to make, since none was supplied with the DRO kit.
 
 ### Installation
 
